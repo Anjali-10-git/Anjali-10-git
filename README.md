@@ -1,6 +1,6 @@
-## Hey! 👋
+## Hey!  👋
 
-I'm Anjali
+## I'm Anjali
 
 - 🔭 I’m currently pursuing a Bachelor of Computer Application.
 - 🌱 I’m currently learning Data Science, Machine Learning.
