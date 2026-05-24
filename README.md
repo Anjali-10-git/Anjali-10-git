@@ -5,5 +5,8 @@
 
 
 ⚡ Fun fact:
+
+   • I like building small Frontend Design
    • I like Cooking
+   • A tea/coffee person
    
