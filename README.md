@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science, Machine Learning.
 
 
-⚡ Fun facts:
+⚡ Fun facts: 
 
    • I like building small Frontend Design
    
